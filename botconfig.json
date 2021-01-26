@@ -1,0 +1,8 @@
+{
+    "token": "<insert your own token here I'm not giving you the original>",
+    "prefix": "!",
+    "version": "0.8.1 Beta",
+    "author": "Kraken",
+    "license": "ISC",
+    "dependencies": "Discord.js & Node.js"
+}
